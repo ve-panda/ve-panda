@@ -9,7 +9,7 @@
 - 🌱 Studying 
 JavaScript and
 React
-- 📍 Alvaro de Carvalho - São Paulo, Brasil.
+- 📍 Garça - São Paulo, Brasil.
 - 📫 contact me by email: veronicagoncalves200@gmail.com
 - 😄 Pronouns: she/her
 
