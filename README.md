@@ -9,7 +9,6 @@
 - 🌱 Studying 
 JavaScript and
 React
-- 📍 Garça - São Paulo, Brasil.
 - 📫 contact me by email: veronicagoncalves200@gmail.com
 - 😄 Pronouns: she/her
 
