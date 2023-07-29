@@ -1,7 +1,7 @@
 <h1>Hi, my name is Veronica, welcome to my profile👋🏻</h1>
 
 
-- 💻 Currently I am studying Systems Analysis and Development at Faculdade de Tecnologia de Garça
+- 🎓 Degree em Análise e Desenvolvimento de Sistemas pela Fatec Garça, note 90.
 - ⚡ I am knowledgeable in <br>
     Python<br>
     CSS<br>
