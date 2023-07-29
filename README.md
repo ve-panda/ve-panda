@@ -2,10 +2,13 @@
 
 
 - 🎓 Degree em Análise e Desenvolvimento de Sistemas pela Fatec Garça, note 90.
-- ⚡ I am knowledgeable in <br>
-    Python<br>
-    CSS<br>
-    HTML
+- ⚡ Knowledge in programming languages:<br>
+Python<br>
+Kotlin<br>
+Markup Language:<br>
+HTML/CSS<br>
+Database:<br>
+MySQL
 - 🌱 Studying 
 JavaScript and
 React
