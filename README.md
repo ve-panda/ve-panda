@@ -1,7 +1,7 @@
 <h1>Hi, my name is Veronica, welcome to my profile👋🏻</h1>
 
 
-- 🎓 Degree em Analysis and systems development pela Fatec Garça, note 90.
+- 🎓 Degree em Analysis and systems development pela Fatec Garça - College of technology of Garça, São Paulo - Brazil, note 90.
 - ⚡ Knowledge in programming languages:<br>
 Python<br>
 Kotlin<br>
